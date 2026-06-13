@@ -19,11 +19,19 @@ Initial public release, accompanying policy brief TD-PB-2026-02 v1.0.
   Machine on 2026-06-13 (see `archive/snapshots.csv`).
 - **Token-price milestones** — 32 points spanning 2021–2026, each with its own
   archived pricing-page source.
-- **Known capture gaps at release:** the PayPal residence-services legal page
-  and the Adyen onboarding docs had no Wayback snapshot as of 2026-06-13; the
-  Azure free-account FAQ resolves only to a stale 2024 capture. These are
-  flagged in `archive/snapshots.csv` and should be re-pinned before the Zenodo
-  deposit.
+- **Known capture gaps at release (rechecked 2026-06-13):**
+  - *Azure free-account FAQ* — a fresh Wayback capture was successfully
+    submitted on 2026-06-13 (Save Page Now returned 200 OK); the new
+    timestamp is pending Internet Archive indexing. The prior stale 2024
+    capture remains listed until the new one resolves.
+  - *PayPal residence-services legal page* — returns HTTP 523 to the Internet
+    Archive's crawler (origin CDN refuses archiving); no capture obtainable.
+  - *Adyen onboarding docs* — return HTTP 403 to the crawler (archiving
+    blocked by the site); no capture obtainable.
+  The two un-archivable pages are corroborated by independent sources in the
+  matrices' notes (their underlying claims do not rest on the snapshot alone).
+  The crawler-refusal status is itself documented here rather than left as a
+  silent gap.
 
 Future data refreshes should be added as new dated entries here, preserving
 prior figures rather than overwriting them.
