@@ -6,6 +6,11 @@ Production-Centric AI Sovereignty Misses_** (TD-PB-2026-02, v1.0, June 2026).
 
 Authors: Tarek Gasmi · Slim Abdelbari · tanitdata.org
 
+## Read the brief
+
+- **Web edition (tanitdata.org):** <https://tanitdata.org/en/policy-briefs/importing-intelligence/>
+- **Archival record of version (Zenodo, DOI):** <https://doi.org/10.5281/zenodo.20677200>
+
 This repository is the per-cell system of record for the brief's empirical
 claims. The brief states market shares, provider country-availability, payment
 rails, token prices, and legal regimes that are **time-sensitive**; everything
@@ -94,10 +99,10 @@ Every empirical source carries known limitations, documented alongside it:
 > Gasmi, T., & Abdelbari, S. (2026). *Importing Intelligence: Token
 > Dependence, Chokepoints, and What Production-Centric AI Sovereignty Misses.*
 > Tanitdata Research policy brief TD-PB-2026-02, v1.0, June 2026.
-> tanitdata.org
+> https://doi.org/10.5281/zenodo.20677200
 
-A Zenodo DOI will be assigned when the brief is deposited; this README will be
-updated to carry it.
+- **DOI:** [10.5281/zenodo.20677200](https://doi.org/10.5281/zenodo.20677200)
+- **Web edition:** <https://tanitdata.org/en/policy-briefs/importing-intelligence/>
 
 ## License
 
