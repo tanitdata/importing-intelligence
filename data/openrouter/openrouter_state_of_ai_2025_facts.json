@@ -1,0 +1,27 @@
+{
+  "source": "OpenRouter — State of AI 2025 (100T Token LLM Usage Study)",
+  "url": "https://openrouter.ai/state-of-ai",
+  "retrieved": "2026-05-04",
+  "data_scope": "100+ trillion tokens of real-world inference on OpenRouter, primarily 2024-2025",
+  "platform_scale": {
+    "active_models": "300+",
+    "providers": "60+",
+    "usage_outside_us_share": "over 0.5"
+  },
+  "reasoning_models": {
+    "o1_release_date": "2024-12-05",
+    "token_share_trajectory": "from small slice to ~50% of total tokens across 2025"
+  },
+  "usage_mix": [
+    "creative roleplay (dominant, larger than commonly assumed)",
+    "coding assistance (dominant)",
+    "productivity (present but not outsized)",
+    "agentic inference (rising)"
+  ],
+  "retention_effect": "Cinderella Glass Slipper — foundational early-cohort users retain longer than later cohorts",
+  "caveats": [
+    "OpenRouter is one aggregator; user base skews toward multi-model developers",
+    "Not peer-reviewed industry publication",
+    "Geographic breakdown below 'over 50% outside US' not public"
+  ]
+}

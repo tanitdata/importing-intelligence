@@ -1,0 +1,172 @@
+jurisdiction,iso,provider,status,group
+Algeria,DZ,OpenAI API,✓,non-sanctioned importer
+Algeria,DZ,ChatGPT,✓,non-sanctioned importer
+Algeria,DZ,Anthropic,✓,non-sanctioned importer
+Algeria,DZ,Gemini API,✓,non-sanctioned importer
+Algeria,DZ,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Algeria,DZ,AWS Bedrock,✓,non-sanctioned importer
+Algeria,DZ,OpenRouter,partial,non-sanctioned importer
+Algeria,DZ,Mistral,✓,non-sanctioned importer
+Algeria,DZ,Cohere,✓,non-sanctioned importer
+Bahrain,BH,OpenAI API,✓,non-sanctioned importer
+Bahrain,BH,ChatGPT,✓,non-sanctioned importer
+Bahrain,BH,Anthropic,✓,non-sanctioned importer
+Bahrain,BH,Gemini API,✓,non-sanctioned importer
+Bahrain,BH,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Bahrain,BH,AWS Bedrock,✓,non-sanctioned importer
+Bahrain,BH,OpenRouter,partial,non-sanctioned importer
+Bahrain,BH,Mistral,✓,non-sanctioned importer
+Bahrain,BH,Cohere,✓,non-sanctioned importer
+Egypt,EG,OpenAI API,✓,non-sanctioned importer
+Egypt,EG,ChatGPT,✓,non-sanctioned importer
+Egypt,EG,Anthropic,✓,non-sanctioned importer
+Egypt,EG,Gemini API,✓,non-sanctioned importer
+Egypt,EG,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Egypt,EG,AWS Bedrock,✓,non-sanctioned importer
+Egypt,EG,OpenRouter,partial,non-sanctioned importer
+Egypt,EG,Mistral,✓,non-sanctioned importer
+Egypt,EG,Cohere,✓,non-sanctioned importer
+Iraq,IQ,OpenAI API,✓,non-sanctioned importer
+Iraq,IQ,ChatGPT,✓,non-sanctioned importer
+Iraq,IQ,Anthropic,✓,non-sanctioned importer
+Iraq,IQ,Gemini API,✓,non-sanctioned importer
+Iraq,IQ,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Iraq,IQ,AWS Bedrock,✓,non-sanctioned importer
+Iraq,IQ,OpenRouter,partial,non-sanctioned importer
+Iraq,IQ,Mistral,✓,non-sanctioned importer
+Iraq,IQ,Cohere,✓,non-sanctioned importer
+Jordan,JO,OpenAI API,✓,non-sanctioned importer
+Jordan,JO,ChatGPT,✓,non-sanctioned importer
+Jordan,JO,Anthropic,✓,non-sanctioned importer
+Jordan,JO,Gemini API,✓,non-sanctioned importer
+Jordan,JO,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Jordan,JO,AWS Bedrock,✓,non-sanctioned importer
+Jordan,JO,OpenRouter,partial,non-sanctioned importer
+Jordan,JO,Mistral,✓,non-sanctioned importer
+Jordan,JO,Cohere,✓,non-sanctioned importer
+Kuwait,KW,OpenAI API,✓,non-sanctioned importer
+Kuwait,KW,ChatGPT,✓,non-sanctioned importer
+Kuwait,KW,Anthropic,✓,non-sanctioned importer
+Kuwait,KW,Gemini API,✓,non-sanctioned importer
+Kuwait,KW,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Kuwait,KW,AWS Bedrock,✓,non-sanctioned importer
+Kuwait,KW,OpenRouter,partial,non-sanctioned importer
+Kuwait,KW,Mistral,✓,non-sanctioned importer
+Kuwait,KW,Cohere,✓,non-sanctioned importer
+Lebanon,LB,OpenAI API,✓,non-sanctioned importer
+Lebanon,LB,ChatGPT,✓,non-sanctioned importer
+Lebanon,LB,Anthropic,✓,non-sanctioned importer
+Lebanon,LB,Gemini API,✓,non-sanctioned importer
+Lebanon,LB,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Lebanon,LB,AWS Bedrock,✓,non-sanctioned importer
+Lebanon,LB,OpenRouter,partial,non-sanctioned importer
+Lebanon,LB,Mistral,✓,non-sanctioned importer
+Lebanon,LB,Cohere,✓,non-sanctioned importer
+Libya,LY,OpenAI API,✓,non-sanctioned importer
+Libya,LY,ChatGPT,✓,non-sanctioned importer
+Libya,LY,Anthropic,✓,non-sanctioned importer
+Libya,LY,Gemini API,✓,non-sanctioned importer
+Libya,LY,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Libya,LY,AWS Bedrock,✓,non-sanctioned importer
+Libya,LY,OpenRouter,partial,non-sanctioned importer
+Libya,LY,Mistral,✓,non-sanctioned importer
+Libya,LY,Cohere,✓,non-sanctioned importer
+Morocco,MA,OpenAI API,✓,non-sanctioned importer
+Morocco,MA,ChatGPT,✓,non-sanctioned importer
+Morocco,MA,Anthropic,✓,non-sanctioned importer
+Morocco,MA,Gemini API,✓,non-sanctioned importer
+Morocco,MA,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Morocco,MA,AWS Bedrock,✓,non-sanctioned importer
+Morocco,MA,OpenRouter,partial,non-sanctioned importer
+Morocco,MA,Mistral,✓,non-sanctioned importer
+Morocco,MA,Cohere,✓,non-sanctioned importer
+Oman,OM,OpenAI API,✓,non-sanctioned importer
+Oman,OM,ChatGPT,✓,non-sanctioned importer
+Oman,OM,Anthropic,✓,non-sanctioned importer
+Oman,OM,Gemini API,✓,non-sanctioned importer
+Oman,OM,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Oman,OM,AWS Bedrock,✓,non-sanctioned importer
+Oman,OM,OpenRouter,partial,non-sanctioned importer
+Oman,OM,Mistral,✓,non-sanctioned importer
+Oman,OM,Cohere,✓,non-sanctioned importer
+Palestine,PS,OpenAI API,✓,non-sanctioned importer
+Palestine,PS,ChatGPT,✓,non-sanctioned importer
+Palestine,PS,Anthropic,✓,non-sanctioned importer
+Palestine,PS,Gemini API,✓,non-sanctioned importer
+Palestine,PS,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Palestine,PS,AWS Bedrock,✓,non-sanctioned importer
+Palestine,PS,OpenRouter,partial,non-sanctioned importer
+Palestine,PS,Mistral,✓,non-sanctioned importer
+Palestine,PS,Cohere,✓,non-sanctioned importer
+Qatar,QA,OpenAI API,✓,non-sanctioned importer
+Qatar,QA,ChatGPT,✓,non-sanctioned importer
+Qatar,QA,Anthropic,✓,non-sanctioned importer
+Qatar,QA,Gemini API,✓,non-sanctioned importer
+Qatar,QA,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Qatar,QA,AWS Bedrock,✓,non-sanctioned importer
+Qatar,QA,OpenRouter,partial,non-sanctioned importer
+Qatar,QA,Mistral,✓,non-sanctioned importer
+Qatar,QA,Cohere,✓,non-sanctioned importer
+Saudi Arabia,SA,OpenAI API,✓,non-sanctioned importer
+Saudi Arabia,SA,ChatGPT,✓,non-sanctioned importer
+Saudi Arabia,SA,Anthropic,✓,non-sanctioned importer
+Saudi Arabia,SA,Gemini API,✓,non-sanctioned importer
+Saudi Arabia,SA,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Saudi Arabia,SA,AWS Bedrock,✓,non-sanctioned importer
+Saudi Arabia,SA,OpenRouter,partial,non-sanctioned importer
+Saudi Arabia,SA,Mistral,✓,non-sanctioned importer
+Saudi Arabia,SA,Cohere,✓,non-sanctioned importer
+Tunisia,TN,OpenAI API,✓,non-sanctioned importer
+Tunisia,TN,ChatGPT,✓,non-sanctioned importer
+Tunisia,TN,Anthropic,✓,non-sanctioned importer
+Tunisia,TN,Gemini API,✓,non-sanctioned importer
+Tunisia,TN,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+Tunisia,TN,AWS Bedrock,✓,non-sanctioned importer
+Tunisia,TN,OpenRouter,partial,non-sanctioned importer
+Tunisia,TN,Mistral,✓,non-sanctioned importer
+Tunisia,TN,Cohere,✓,non-sanctioned importer
+UAE,AE,OpenAI API,✓,non-sanctioned importer
+UAE,AE,ChatGPT,✓,non-sanctioned importer
+UAE,AE,Anthropic,✓,non-sanctioned importer
+UAE,AE,Gemini API,✓,non-sanctioned importer
+UAE,AE,Azure OpenAI / MS Foundry,✓,non-sanctioned importer
+UAE,AE,AWS Bedrock,✓,non-sanctioned importer
+UAE,AE,OpenRouter,partial,non-sanctioned importer
+UAE,AE,Mistral,✓,non-sanctioned importer
+UAE,AE,Cohere,✓,non-sanctioned importer
+Yemen,YE,OpenAI API,✓,sanctioned/conflict-affected
+Yemen,YE,ChatGPT,✓,sanctioned/conflict-affected
+Yemen,YE,Anthropic,✗,sanctioned/conflict-affected
+Yemen,YE,Gemini API,✓,sanctioned/conflict-affected
+Yemen,YE,Azure OpenAI / MS Foundry,✓,sanctioned/conflict-affected
+Yemen,YE,AWS Bedrock,✓,sanctioned/conflict-affected
+Yemen,YE,OpenRouter,partial,sanctioned/conflict-affected
+Yemen,YE,Mistral,✓,sanctioned/conflict-affected
+Yemen,YE,Cohere,✓,sanctioned/conflict-affected
+Sudan,SD,OpenAI API,✓,sanctioned/conflict-affected
+Sudan,SD,ChatGPT,✓,sanctioned/conflict-affected
+Sudan,SD,Anthropic,✓,sanctioned/conflict-affected
+Sudan,SD,Gemini API,✓,sanctioned/conflict-affected
+Sudan,SD,Azure OpenAI / MS Foundry,✗,sanctioned/conflict-affected
+Sudan,SD,AWS Bedrock,UNKNOWN,sanctioned/conflict-affected
+Sudan,SD,OpenRouter,partial,sanctioned/conflict-affected
+Sudan,SD,Mistral,✓,sanctioned/conflict-affected
+Sudan,SD,Cohere,✓,sanctioned/conflict-affected
+Syria,SY,OpenAI API,✗,sanctioned/conflict-affected
+Syria,SY,ChatGPT,✗,sanctioned/conflict-affected
+Syria,SY,Anthropic,✗,sanctioned/conflict-affected
+Syria,SY,Gemini API,✗,sanctioned/conflict-affected
+Syria,SY,Azure OpenAI / MS Foundry,✗,sanctioned/conflict-affected
+Syria,SY,AWS Bedrock,✗,sanctioned/conflict-affected
+Syria,SY,OpenRouter,UNKNOWN,sanctioned/conflict-affected
+Syria,SY,Mistral,✗,sanctioned/conflict-affected
+Syria,SY,Cohere,UNKNOWN,sanctioned/conflict-affected
+Iran,IR,OpenAI API,✗,sanctioned/conflict-affected
+Iran,IR,ChatGPT,✗,sanctioned/conflict-affected
+Iran,IR,Anthropic,✗,sanctioned/conflict-affected
+Iran,IR,Gemini API,✗,sanctioned/conflict-affected
+Iran,IR,Azure OpenAI / MS Foundry,✗,sanctioned/conflict-affected
+Iran,IR,AWS Bedrock,✗,sanctioned/conflict-affected
+Iran,IR,OpenRouter,UNKNOWN,sanctioned/conflict-affected
+Iran,IR,Mistral,✗,sanctioned/conflict-affected
+Iran,IR,Cohere,UNKNOWN,sanctioned/conflict-affected

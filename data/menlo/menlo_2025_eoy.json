@@ -1,0 +1,40 @@
+{
+  "source": "Menlo Ventures — 2025: The State of Generative AI in the Enterprise",
+  "published": "2025-12-09",
+  "canonical_url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+  "pdf_url": "https://menlovc.com/wp-content/uploads/2025/12/menlo_ventures_enterprise_ai_report-2025.pdf",
+  "retrieved": "2026-05-04",
+  "definition": "Estimated dollars spent based on proportion of production API usage. Triangulated with publicly reported financials where available.",
+  "market_share_dollars_spent": {
+    "anthropic": 0.40,
+    "openai": 0.27,
+    "google": 0.21,
+    "top_three_combined": 0.88,
+    "remaining_long_tail": 0.12
+  },
+  "historical_anthropic_share": {
+    "2023": 0.12,
+    "2024": 0.24,
+    "2025_eoy": 0.40
+  },
+  "historical_openai_share": {
+    "2023": 0.50,
+    "2025_eoy": 0.27
+  },
+  "coding_vertical": {
+    "anthropic": 0.54,
+    "openai": 0.21,
+    "anthropic_six_months_prior": 0.42,
+    "notes": "Anthropic gain attributed substantially to Claude Code adoption"
+  },
+  "scale_signals": {
+    "products_over_1B_arr": 10,
+    "products_over_100M_arr": 50
+  },
+  "caveats": [
+    "Definition shift from Mid-2025 report (usage → dollars) — do not mix figures",
+    "Dollar-spend triangulation draws on publicly reported financials, so may over-weight public-filing providers",
+    "Vendor-adjacent source (Menlo is an LLM investor, holds Anthropic position)",
+    "Survey-based; generalizability to non-US enterprises unclear"
+  ]
+}

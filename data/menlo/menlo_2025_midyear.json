@@ -1,0 +1,37 @@
+{
+  "source": "Menlo Ventures — 2025 Mid-Year LLM Market Update",
+  "published": "2025-07-31",
+  "canonical_url": "https://menlovc.com/2025-mid-year-llm-market-update/",
+  "retrieved": "2026-05-04",
+  "definition": "Share of production API usage (not dollars). Survey-weighted by scale.",
+  "survey_base": "150 technical leaders, AI startups + large enterprises",
+  "enterprise_llm_spend_usd": {
+    "nov_2024_billions": 3.5,
+    "mid_2025_billions": 8.4
+  },
+  "market_share_production_usage": {
+    "anthropic": 0.32,
+    "openai": 0.25,
+    "google": 0.20,
+    "meta_llama": 0.09,
+    "deepseek": 0.01,
+    "other": 0.13
+  },
+  "historical_openai_share": {
+    "2023": 0.50,
+    "mid_2025": 0.25
+  },
+  "historical_google_share": {
+    "2023": 0.07,
+    "mid_2025": 0.20
+  },
+  "other_facts": {
+    "inference_overtook_training": true,
+    "vendor_switching_past_year_pct": 0.11
+  },
+  "caveats": [
+    "Self-reported production API usage",
+    "No public underlying microdata",
+    "Vendor-adjacent source (Menlo is an LLM investor)"
+  ]
+}

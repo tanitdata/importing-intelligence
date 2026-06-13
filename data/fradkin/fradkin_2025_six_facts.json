@@ -1,0 +1,45 @@
+{
+  "source": "Demirer, Fradkin, Tadelis, Peng (2025), NBER WP 34608",
+  "title": "The Emerging Market for Intelligence: Pricing, Supply, and Demand for LLMs",
+  "published": "2025-12",
+  "canonical_url": "https://www.nber.org/papers/w34608",
+  "doi": "10.3386/w34608",
+  "retrieved": "2026-05-04",
+  "data_sources": ["OpenRouter", "Microsoft Azure API usage"],
+  "six_facts": [
+    {
+      "id": 1,
+      "claim": "Rapid growth in number of models, creators, and inference providers; open-source entrants drive the growth."
+    },
+    {
+      "id": 2,
+      "claim": "Price declines + persistent price heterogeneity across and within intelligence tiers. Open-source ~90% cheaper than closed-source at same intelligence tier.",
+      "essay_relevance": "Load-bearing for resilience sketch; complicates production-centric sovereignty framing."
+    },
+    {
+      "id": 3,
+      "claim": "Market dynamism — frequent turnover among leading models and creators."
+    },
+    {
+      "id": 4,
+      "claim": "Horizontal and vertical differentiation — no single model dominates across use cases.",
+      "essay_relevance": "Complicates simple top-3-provider chokepoint framing. Concentration at API layer ≠ concentration at task/use-case layer."
+    },
+    {
+      "id": 5,
+      "claim": "Short-run price elasticities just above 1 — limited scope for Jevons-paradox effects."
+    },
+    {
+      "id": 6,
+      "claim": "Multi-homing increasing over time but most firms still concentrate on a single model.",
+      "essay_relevance": "Consistent with Menlo Ventures 11% vendor switching figure when framed carefully."
+    }
+  ],
+  "superseded_version": {
+    "title": "Demand for LLMs: Descriptive Evidence on Substitution, Market Expansion, and Multi-Homing",
+    "author": "Fradkin (solo)",
+    "year": 2025,
+    "url": "https://andreyfradkin.com/assets/demandforllm.pdf",
+    "note": "Do not cite; superseded by NBER WP 34608"
+  }
+}

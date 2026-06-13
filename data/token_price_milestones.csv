@@ -1,0 +1,33 @@
+model,date,input_usd_per_mtok,output_usd_per_mtok,combined,tier,date_type,shown_in_figure3,source
+GPT-3 Davinci,2021-12-04,60.0,60.0,True,flagship,observed,yes,https://web.archive.org/web/20211204021218/https://openai.com/api/pricing/
+GPT-3 Curie,2021-12-04,6.0,6.0,True,mid,observed,no,https://web.archive.org/web/20211204021218/https://openai.com/api/pricing/
+text-davinci (base),2023-03-16,20.0,20.0,True,flagship-legacy,observed,no,https://web.archive.org/web/20230316024934/https://openai.com/pricing
+gpt-3.5-turbo,2023-03-16,2.0,2.0,True,economy,observed,yes,https://web.archive.org/web/20230316024934/https://openai.com/pricing
+GPT-4 8K,2023-03-16,30.0,60.0,False,flagship,observed,yes,https://web.archive.org/web/20230316024934/https://openai.com/pricing
+GPT-4 32K,2023-03-16,60.0,120.0,False,flagship,observed,yes,https://web.archive.org/web/20230316024934/https://openai.com/pricing
+Claude 3 Opus,2024-03-04,15.0,75.0,False,flagship,launch,yes,https://www.anthropic.com/news/claude-3-family
+Claude 3 Sonnet,2024-03-04,3.0,15.0,False,mid,launch,yes,https://www.anthropic.com/news/claude-3-family
+Claude 3 Haiku,2024-03-04,0.25,1.25,False,economy,launch,yes,https://www.anthropic.com/news/claude-3-family
+gpt-4-turbo,2024-05-31,10.0,30.0,False,flagship,observed,no,https://web.archive.org/web/20240531225017/https://openai.com/api/pricing/
+gpt-4o,2024-05-31,5.0,15.0,False,flagship,observed,no,https://web.archive.org/web/20240531225017/https://openai.com/api/pricing/
+gpt-3.5-turbo-0125,2024-05-31,0.5,1.5,False,economy,observed,no,https://web.archive.org/web/20240531225017/https://openai.com/api/pricing/
+Claude 3.5 Sonnet,2024-06-21,3.0,15.0,False,mid,launch,no,https://www.anthropic.com/news/claude-3-5-sonnet
+Gemini 1.5 Flash (<=128K),2024-07-12,0.35,1.05,False,economy,observed,yes,https://web.archive.org/web/20240712071622/https://ai.google.dev/pricing
+Gemini 1.5 Pro (<=128K),2024-07-12,3.5,10.5,False,mid,observed,no,https://web.archive.org/web/20240712071622/https://ai.google.dev/pricing
+"DeepSeek-V3 (cache miss, standard)",2025-02-08,0.27,1.1,False,economy,effective,no,https://api-docs.deepseek.com/news/news1226
+DeepSeek-R1 (cache miss),2025-01-20,0.55,2.19,False,reasoning-economy,launch,no,https://api-docs.deepseek.com/news/news250120
+OpenAI o3 (pre-cut),2025-04-16,10.0,40.0,False,reasoning-flagship,launch,yes,https://community.openai.com/t/o3-is-80-cheaper-and-introducing-o3-pro/1284925
+OpenAI o3 (post-cut),2025-06-10,2.0,8.0,False,reasoning-flagship,effective,yes,https://community.openai.com/t/o3-is-80-cheaper-and-introducing-o3-pro/1284925
+OpenAI o1,2026-06-12,15.0,60.0,False,reasoning-flagship,observed,no,https://artificialanalysis.ai/models/o1
+GPT-5.5,2026-06-12,5.0,30.0,False,flagship,observed,no,https://developers.openai.com/api/docs/pricing
+GPT-5.5-pro,2026-06-12,30.0,180.0,False,reasoning-flagship,observed,yes,https://developers.openai.com/api/docs/pricing
+GPT-5.4-mini,2026-06-12,0.75,4.5,False,mid,observed,yes,https://developers.openai.com/api/docs/pricing
+GPT-5.4-nano,2026-06-12,0.2,1.25,False,economy,observed,no,https://developers.openai.com/api/docs/pricing
+Claude Fable 5,2026-06-12,10.0,50.0,False,flagship,observed,yes,https://platform.claude.com/docs/en/docs/about-claude/pricing
+Claude Opus 4.8,2026-06-12,5.0,25.0,False,flagship,observed,no,https://platform.claude.com/docs/en/docs/about-claude/pricing
+Claude Sonnet 4.6,2026-06-12,3.0,15.0,False,mid,observed,no,https://platform.claude.com/docs/en/docs/about-claude/pricing
+Claude Haiku 4.5,2026-06-12,1.0,5.0,False,economy,observed,no,https://platform.claude.com/docs/en/docs/about-claude/pricing
+Gemini 3.1 Pro Preview (<=200K),2026-06-12,2.0,12.0,False,flagship,observed,no,https://ai.google.dev/gemini-api/docs/pricing
+Gemini 2.5 Flash-Lite,2026-06-12,0.1,0.4,False,economy,observed,yes,https://ai.google.dev/gemini-api/docs/pricing
+DeepSeek-V4-Flash (cache miss),2026-06-12,0.14,0.28,False,economy,observed,yes,https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek-V4-Pro (cache miss),2026-06-12,0.435,0.87,False,mid,observed,no,https://api-docs.deepseek.com/quick_start/pricing

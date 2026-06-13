@@ -1,0 +1,35 @@
+{
+  "source": "Du (2026), Tiered Super-Moore's Law, arXiv:2603.28576v1",
+  "submitted": "2026-03-30",
+  "retrieved": "2026-05-04",
+  "dataset_sources": {
+    "openrouter_cross_section_models": 318,
+    "openrouter_snapshot_date": "2026-03-28",
+    "epoch_ai_panel_models": 3237,
+    "milestone_records": 62
+  },
+  "price_decline_2020_2026_factor": 600,
+  "tiered_half_lives_years": {
+    "economy": 1.10,
+    "mid": 1.55,
+    "flagship_r_squared": 0.031
+  },
+  "reasoning_premium_multiplier": 31.5,
+  "structural_break": {
+    "date": "2024-05",
+    "chow_f": 5.74,
+    "p_value": 0.005
+  },
+  "cost_decomposition": {
+    "tfp_residual_share": 1.037,
+    "gpu_hardware_contribution_share": -0.009
+  },
+  "us_china_training_cost_gap": 63,
+  "us_china_per_flop_p_value": 0.228,
+  "hhi_trajectory": {
+    "start": 4558,
+    "end": 2086,
+    "span_years": 3
+  },
+  "training_cost_inference_elasticity": 0.432
+}
